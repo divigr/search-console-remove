@@ -1,0 +1,53 @@
+{
+   "appDesc": {
+      "message": "WebMaster Tools - Bulk URL Removal"
+   },
+   "appName": {
+      "message": "WebMaster Tools - Bulk URL Removal"
+   },
+   "apply": {
+      "message": "Apply"
+   },
+   "buy": {
+      "message": "Buy Now"
+   },
+   "clear_cache": {
+      "message": "Clear cache"
+   },
+   "download_error_CSV": {
+      "message": "Download Error CSV"
+   },
+   "email": {
+      "message": "email"
+   },
+   "enter_your_license": {
+      "message": " enter your license below."
+   },
+   "go_to_google_search_console": {
+      "message": "Go to Google Search Console"
+   },
+   "instructions": {
+      "message": "Instructions"
+   },
+   "invalid_license": {
+      "message": "Invalid License"
+   },
+   "license_key": {
+      "message": "License Key"
+   },
+   "purchased_already": {
+      "message": "If you've already purchased the extension,"
+   },
+   "select_removals_on_the_left": {
+      "message": "Select Removals on the left."
+   },
+   "select_the_proper_domain_from_the_dropdown_on_the_left": {
+      "message": "Select the proper domain from the dropdown on the left."
+   },
+   "submit_CSV_file": {
+      "message": "Submit CSV File"
+   },
+   "upload_your_csv_file_by_clicking_on_the_button": {
+      "message": "Upload your csv file by clicking on the 'Submit CSV File' button. Check out the example csv below."
+   }
+}

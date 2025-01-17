@@ -1,0 +1,33 @@
+{
+   "action": {
+      "default_popup": "popup.html",
+      "default_title": "Show the popup"
+   },
+   "background": {
+      "service_worker": "compiled/background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "inject.js", "compiled/content-script.js" ],
+      "matches": [ "https://search.google.com/*search-console*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "host_permissions": [ "https://api.gumroad.com/v2/licenses/verify" ],
+   "icons": {
+      "128": "images/trash_icon128.png",
+      "16": "images/trash_icon16.png",
+      "32": "images/trash_icon32.png",
+      "48": "images/trash_icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhAo3496VnpROxmgUQ3W6IpnLSIE9Uvv9Id46bvRcPHzo5CxyZ9RzaTYc88lDjhD1NGzKDkaw5J2BFm0j28w1+fz3md1lkvO6gSv2HHM6GDRdhElHvrbGWClwgWupr/QTRuFZ2e1gK2yg3AuPh+8W7oPcvb7x7Gc9i8jdIpZaY/L/jpANRz3t5G/OHtoDXMZJ+6QHFdM0HR5gARZ/B4D/KOvVBkvRtsrdMowEPlYnJA7kqOzKSEsGDs93/+OsneqXJR05I/XpHSKA2zkxILmftRAQYKq3SZo4HONwOONZ/AoZg8bERMmTEPZ3Nu9YFTqg/MogYBPoMc/G3E0r3maxKwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "permissions": [ "tabs", "storage", "downloads", "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.3",
+   "web_accessible_resources": [ {
+      "matches": [ "https://search.google.com/*" ],
+      "resources": [ "inject_script.js" ]
+   } ]
+}

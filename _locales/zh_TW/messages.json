@@ -1,0 +1,53 @@
+{
+   "appDesc": {
+      "message": "Google Search Console - 批量刪除網址"
+   },
+   "appName": {
+      "message": "Google Search Console - 批量刪除網址"
+   },
+   "apply": {
+      "message": "登入"
+   },
+   "buy": {
+      "message": "立即購買"
+   },
+   "clear_cache": {
+      "message": "Clear cache"
+   },
+   "download_error_CSV": {
+      "message": "下載Error CSV文件"
+   },
+   "email": {
+      "message": "電郵"
+   },
+   "enter_your_license": {
+      "message": "請輸入你的密碼"
+   },
+   "go_to_google_search_console": {
+      "message": "去 Google Search Console"
+   },
+   "instructions": {
+      "message": "使用說明"
+   },
+   "invalid_license": {
+      "message": "密碼錯誤"
+   },
+   "license_key": {
+      "message": "密碼"
+   },
+   "purchased_already": {
+      "message": "擁有密碼者,"
+   },
+   "select_removals_on_the_left": {
+      "message": "選擇移除網址"
+   },
+   "select_the_proper_domain_from_the_dropdown_on_the_left": {
+      "message": "在左邊選擇你要的網域資源"
+   },
+   "submit_CSV_file": {
+      "message": "上載CSV文件"
+   },
+   "upload_your_csv_file_by_clicking_on_the_button": {
+      "message": "按 \"上載CSV文件\" 按鈕,上載你的CSV文件"
+   }
+}

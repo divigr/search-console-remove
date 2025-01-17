@@ -1,0 +1,53 @@
+{
+   "appDesc": {
+      "message": "Google Search Console - 批量删除网址"
+   },
+   "appName": {
+      "message": "Google Search Console - 批量删除网址"
+   },
+   "apply": {
+      "message": "登入"
+   },
+   "buy": {
+      "message": "立即购买"
+   },
+   "clear_cache": {
+      "message": "Clear cache"
+   },
+   "download_error_CSV": {
+      "message": "下载Error CSV文件"
+   },
+   "email": {
+      "message": "电邮"
+   },
+   "enter_your_license": {
+      "message": "请输入你的密码"
+   },
+   "go_to_google_search_console": {
+      "message": "去 Google Search Console"
+   },
+   "instructions": {
+      "message": "使用说明"
+   },
+   "invalid_license": {
+      "message": "密码错误"
+   },
+   "license_key": {
+      "message": "密码"
+   },
+   "purchased_already": {
+      "message": "拥有密码者,"
+   },
+   "select_removals_on_the_left": {
+      "message": "选择删除"
+   },
+   "select_the_proper_domain_from_the_dropdown_on_the_left": {
+      "message": "在左边选择你要的网域资源"
+   },
+   "submit_CSV_file": {
+      "message": "上载CSV文件"
+   },
+   "upload_your_csv_file_by_clicking_on_the_button": {
+      "message": "按 \"上载CSV文件\" 按钮,上载你的CSV文件"
+   }
+}
